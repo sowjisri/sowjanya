@@ -1,1 +1,5 @@
 haihello
+how r u
+:wq
+hai
+hello
